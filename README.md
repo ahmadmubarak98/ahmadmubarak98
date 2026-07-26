@@ -2,7 +2,7 @@
 
 #### Full-Stack JS Developer
 
-Full-Stack Developer at [PATRON Technologies](https://www.linkedin.com/company/alpatron)<br>
+Frontend Team Lead @ [PATRON Technologies](https://www.linkedin.com/company/alpatron)<br>
 
 - 🌍 My first language is `javascript`
 - ⚙️ I currently work on [@ahmadmubarak98/namozaj](https://www.npmjs.com/package/@ahmadmubarak98/namozaj)
